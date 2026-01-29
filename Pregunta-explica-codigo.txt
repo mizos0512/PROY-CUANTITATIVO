@@ -1,0 +1,2 @@
+Explica cada una de las siguientes variables, funciones, parámetros, argumentos, etc y la lógica del por qué se hace del siguiente código y su lógica:
+//
