@@ -1,2 +1,3 @@
 Explica del siguiente código línea por línea, la lógica, ¿por qué se hace?, variables, funciones, parámetros, argumentos, etc 
 //
+Esto me ha confundido mucho: mejor genérame un .ipynb nuevo que cargue los datos, transite por las etapas correspondientes de limpieza, exploración, etc y al final crea un ML que los resultados sean de "Clasificación", es decir, Que el ML devuelva: LONG/SHORT o No TRADE segun la "P"
